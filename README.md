@@ -36,6 +36,5 @@ This 2-D scatter plot shows the relationship between total coin supply and total
 
 ## Summary
 
-This analysis shows that there are a lot of cryptocurrencies that perform similarly while there are a few that are outliers. Features of each group need to be analyzed to determine their performance.
-
+This analysis shows that there are a lot of cryptocurrencies that perform similarly while there are a few that are outliers.
 
