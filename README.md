@@ -12,7 +12,7 @@ Then I applied PCA to reduce the dimensions to three principal components to cre
 
 <img width="896" alt="Screen Shot 2021-02-04 at 4 18 31 PM" src="https://user-images.githubusercontent.com/70611325/107093737-98cbc080-67ba-11eb-8578-384c0a4e72d6.png">
 
-By looking at the graph, the best k-value appears to be 4. We can conclude on an output of 4 clusters to categorize the cryptocurrencies.
+By looking at the graph, the best k-value appears to be 4, so we can conclude on an output of 4 clusters to categorize the cryptocurrencies.
 
 After that, I created scatter plots with Plotly Express and hvplot, where we can visualize the distinct groups that correspond to the three principal components, then I created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 
